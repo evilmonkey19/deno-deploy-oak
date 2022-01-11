@@ -1,3 +1,3 @@
 import app from "./app.js";
 
-addEventListener("fetch", app.fetchEventHandler());
+app.listen({ port: 7777 });

@@ -1,5 +1,5 @@
 const hello = ({ response }) => {
-  response.body = "Hello world!";
+  response.body = "Hello world :D!";
 };
 
 export { hello };
